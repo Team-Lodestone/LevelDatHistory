@@ -12,7 +12,7 @@
             FallDistance: 0f,
             Score: 0,
             Sleeping: 0b,
-            Pos: [0d, 96.2400000095367d, 0d],
+            Pos: [0d, 94.6200000047684d, 0d],
             DeathTime: 0s,
             Fire: -20s,
             HurtTime: 0s,
@@ -75,16 +75,16 @@
             ]
         },
         SpawnY: 64,
-        rainTime: 25644,
-        thunderTime: 116144,
+        rainTime: 25611,
+        thunderTime: 116111,
         SpawnZ: 0,
         SpawnX: 0,
         raining: 0b,
-        Time: 4281L,
+        Time: 4314L,
         thundering: 0b,
         version: 19132,
-        LastPlayed: 1764243374046L,
+        LastPlayed: 1764243448302L,
         LevelName: "Project Lodestone level.dat",
-        SizeOnDisk: 1086680L
+        SizeOnDisk: 1094872L
     }
 }
