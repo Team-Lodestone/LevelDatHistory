@@ -11,6 +11,12 @@
             Dimension: 0,
             Rotation: [0f, 0f],
             XpLevel: 0,
+            abilities: {
+                invulnerable: 0b,
+                mayfly: 0b,
+                instabuild: 0b,
+                flying: 0b
+            },
             FallDistance: 0f,
             Score: 0,
             Sleeping: 0b,
@@ -82,18 +88,18 @@
             foodTickTimer: 0
         },
         SpawnY: 64,
-        rainTime: 24881,
-        thunderTime: 115381,
+        rainTime: 24830,
+        thunderTime: 115330,
         SpawnZ: 0,
         hardcore: 0b,
         SpawnX: 0,
         raining: 0b,
-        Time: 5044L,
+        Time: 5095L,
         thundering: 0b,
         GameType: 0,
         MapFeatures: 0b,
         version: 19132,
-        LastPlayed: 1764244334842L,
+        LastPlayed: 1764244387169L,
         LevelName: "Project Lodestone level.dat",
         SizeOnDisk: 1103064L
     }
