@@ -1,6 +1,5 @@
 {
     Data: {
-        LastPlayed: 1764242992148L,
         RandomSeed: -313826648L,
         Player: {
             Motion: [0d, -0.0784000015258789d, 0d],
@@ -76,11 +75,16 @@
             ]
         },
         SpawnY: 64,
+        rainTime: 25771,
+        thunderTime: 116271,
         SpawnZ: 0,
         SpawnX: 0,
-        LevelName: "Project Lodestone level.dat",
-        Time: 4142L,
+        raining: 0b,
+        Time: 4154L,
+        thundering: 0b,
         version: 19132,
+        LastPlayed: 1764243030088L,
+        LevelName: "Project Lodestone level.dat",
         SizeOnDisk: 1045720L
     }
 }
