@@ -1,0 +1,81 @@
+{
+    Data: {
+        LastPlayed: 1764234192518L,
+        RandomSeed: -313826648L,
+        Player: {
+            Motion: [0d, -0.08d, 0d],
+            Health: 20s,
+            Air: 300s,
+            Rotation: [0f, 0f],
+            FallDistance: 0f,
+            Score: 0,
+            Pos: [0d, 94.6200000047684d, 0d],
+            DeathTime: 0s,
+            Fire: -20s,
+            id: "LocalPlayer",
+            HurtTime: 0s,
+            AttackTime: 0s,
+            Inventory: [
+                {
+                    Slot: 0b,
+                    id: 1s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 1b,
+                    id: 4s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 2b,
+                    id: 45s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 3b,
+                    id: 3s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 4b,
+                    id: 5s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 5b,
+                    id: 17s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 6b,
+                    id: 18s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 7b,
+                    id: 50s,
+                    Count: 1b,
+                    Damage: 0s
+                },
+                {
+                    Slot: 8b,
+                    id: 44s,
+                    Count: 1b,
+                    Damage: 0s
+                }
+            ]
+        },
+        SpawnY: 64,
+        SpawnZ: 0,
+        SpawnX: 0,
+        Time: 28L,
+        SizeOnDisk: 991767L
+    }
+}
