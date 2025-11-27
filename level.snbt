@@ -1,19 +1,18 @@
 {
     Data: {
-        LastPlayed: 1764234613448L,
+        LastPlayed: 1764234685319L,
         RandomSeed: -313826648L,
         Player: {
             Motion: [0d, -0.08d, 0d],
-            Health: 20s,
-            Air: 300s,
-            Rotation: [0f, 0f],
             FallDistance: 0f,
             Score: 0,
             Pos: [0d, 94.6200000047684d, 0d],
+            Health: 20s,
             DeathTime: 0s,
             Fire: -20s,
-            id: "LocalPlayer",
+            Air: 300s,
             HurtTime: 0s,
+            Rotation: [0f, 0f],
             AttackTime: 0s,
             Inventory: [
                 {
@@ -75,7 +74,7 @@
         SpawnY: 64,
         SpawnZ: 0,
         SpawnX: 0,
-        Time: 57L,
+        Time: 93L,
         SizeOnDisk: 991767L
     }
 }
