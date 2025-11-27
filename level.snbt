@@ -75,15 +75,15 @@
             ]
         },
         SpawnY: 64,
-        rainTime: 25695,
-        thunderTime: 116195,
+        rainTime: 25682,
+        thunderTime: 116182,
         SpawnZ: 0,
         SpawnX: 0,
         raining: 0b,
-        Time: 4230L,
+        Time: 4243L,
         thundering: 0b,
         version: 19132,
-        LastPlayed: 1764243233511L,
+        LastPlayed: 1764243266947L,
         LevelName: "Project Lodestone level.dat",
         SizeOnDisk: 1078488L
     }
