@@ -82,18 +82,18 @@
             foodTickTimer: 0
         },
         SpawnY: 64,
-        rainTime: 25064,
-        thunderTime: 115564,
+        rainTime: 25031,
+        thunderTime: 115531,
         SpawnZ: 0,
         hardcore: 0b,
         SpawnX: 0,
         raining: 0b,
-        Time: 4861L,
+        Time: 4894L,
         thundering: 0b,
         GameType: 0,
         MapFeatures: 0b,
         version: 19132,
-        LastPlayed: 1764244060997L,
+        LastPlayed: 1764244137505L,
         LevelName: "Project Lodestone level.dat",
         SizeOnDisk: 1103064L
     }
