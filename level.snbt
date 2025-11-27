@@ -1,6 +1,6 @@
 {
     Data: {
-        LastPlayed: 1764235248389L,
+        LastPlayed: 1764235305203L,
         RandomSeed: -313826648L,
         Player: {
             Motion: [0d, -0.08d, 0d],
@@ -74,7 +74,7 @@
         SpawnY: 64,
         SpawnZ: 0,
         SpawnX: 0,
-        Time: 267L,
-        SizeOnDisk: 991722L
+        Time: 300L,
+        SizeOnDisk: 991922L
     }
 }
