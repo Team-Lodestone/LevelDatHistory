@@ -80,9 +80,9 @@
         {1, "creative"}  // creative mode
       }
       ```
- - Added boolean byte tag `MapFeatures`
-   - Default value is `true/1` on a new world, otherwise `false/0` for upgraded worlds (unverified)
-   - Determines whether to generate features such as strongholds and villages
+   - Added boolean byte tag `MapFeatures`
+     - Default value is `true/1` on a new world, otherwise `false/0` for upgraded worlds (unverified)
+     - Determines whether to generate features such as strongholds and villages
 - [b1.9-pre2](https://github.com/Team-Lodestone/LevelDatHistory/commit/f24361568b4194c5f5cb620eb212bc9bf2814d37)
   - Added boolean byte tag `hardcore`
     - Determines whether players are in "hardcore" mode, which prevents the player from playing the world after they have died.
