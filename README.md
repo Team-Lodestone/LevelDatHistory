@@ -18,6 +18,7 @@
       + Motion: [0d, -0.0784000015258789d, 0d]
       ```
 - [a1.2.0](https://github.com/Team-Lodestone/LevelDatHistory/commit/8472b8a6b5334878207548e4ee46923804978aad)
+  - Removed boolean byte tag `SnowCovered`
   - Added int tag `Dimension` under `Player`
     - Stores the dimension (by id) the player was in when saved
 - [b1.3-1713](https://github.com/Team-Lodestone/LevelDatHistory/commit/6a379eaa46800f755f3e1b0cddb062947c5c30c0)
